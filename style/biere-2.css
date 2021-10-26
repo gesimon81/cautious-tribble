@@ -1,3 +1,8 @@
 #liste-puces {
   list-style-type: circle;
 }
+
+.verticalLine {
+  border-left: 6px solid green;
+  height: 1000px;
+}
